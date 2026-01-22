@@ -4,6 +4,10 @@ My own take on an easy to use cli for simple read operations against AWS DynamoD
 
 ## Install
 
+Nix:
+
+    nix run github:stuarthicks/ddb-please
+
 Using Homebrew:
 
     brew install stuarthicks/brews/ddb-please
